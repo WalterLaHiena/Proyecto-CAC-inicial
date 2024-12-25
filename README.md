@@ -1,0 +1,1 @@
+El proyecto parece ser una aplicación de consola para un banco ficticio llamado "Banco Francés". El archivo inicio.py contiene el programa principal que presenta un menú con opciones para crear un usuario, ingresar al sistema, recuperar una clave olvidada y salir del programa. Utiliza funciones importadas de otro archivo (funciones.py) para realizar estas operaciones.
